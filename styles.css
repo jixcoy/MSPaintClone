@@ -32,7 +32,7 @@
     grid-column-end: color;
 }
 
-.color-edit {
+.list-container {
     background-color: beige;
     display: flex;
     flex-direction: column;
@@ -40,7 +40,7 @@
 
 
 }
-.color-edit ul {
+.list-container ul {
     padding: 10px;
 }
 .color-box {
