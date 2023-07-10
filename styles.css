@@ -43,7 +43,7 @@
 .list-container ul {
     padding: 10px;
 }
-.color-box {
+.box {
     display: inline-block;
     width: 50px;
     height: 50px;
@@ -54,6 +54,11 @@
 .blue{ background-color: blue;}
 .white{ background-color: white;}
 .black{ background-color: black;}
+
+.box img {
+    width: 50px;
+    height: 50px;
+}
 
 .opacity-container {
     display: flex;
